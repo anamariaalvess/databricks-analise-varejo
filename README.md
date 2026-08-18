@@ -556,7 +556,7 @@ Indicadores gerais de:
 - evolução das vendas;
 - categorias.
 
-![Visão Executiva](/Workspace/Users/anamarias.ufg@gmail.com/databricks-analise-varejo/documentacao/imagens/01_visao_geral.png)
+![Visão Executiva](/databricks-analise-varejo/documentacao/imagens/01_visao_geral.png)
 
 ---
 
@@ -571,7 +571,7 @@ Apresenta:
 - clientes em risco;
 - oportunidades de retenção.
 
-![Clientes](/Workspace/Users/anamarias.ufg@gmail.com/databricks-analise-varejo/documentacao/imagens/02_clientes.png)
+![Clientes](/databricks-analise-varejo/documentacao/imagens/02_clientes.png)
 
 ---
 
@@ -588,7 +588,7 @@ Apresenta:
 - capital excedente;
 - prioridades operacionais.
 
-![Produtos e Estoque](/Workspace/Users/anamarias.ufg@gmail.com/databricks-analise-varejo/documentacao/imagens/03_produtos_estoque.png)
+![Produtos e Estoque](/databricks-analise-varejo/documentacao/imagens/03_produtos_estoque.png)
 
 ---
 
@@ -603,7 +603,7 @@ Apresenta:
 - fornecedores;
 - mercadorias já em trânsito.
 
-![Compras](/Workspace/Users/anamarias.ufg@gmail.com/databricks-analise-varejo/documentacao/imagens/04_compras.png)
+![Compras](/databricks-analise-varejo/documentacao/imagens/04_compras.png)
 
 ---
 
@@ -619,7 +619,7 @@ Apresenta:
 - fluxo de caixa;
 - saldo projetado.
 
-![Financeiro](/Workspace/Users/anamarias.ufg@gmail.com/databricks-analise-varejo/documentacao/imagens/05_financeiro.png)
+![Financeiro](/databricks-analise-varejo/documentacao/imagens/05_financeiro.png)
 
 ---
 
@@ -635,7 +635,7 @@ Apresenta:
 - ticket médio;
 - desempenho regional.
 
-![Equipe Comercial](/Workspace/Users/anamarias.ufg@gmail.com/databricks-analise-varejo/documentacao/imagens/06_comercial.png)
+![Equipe Comercial](/databricks-analise-varejo/documentacao/imagens/06_comercial.png)
 
 ---
 
@@ -840,24 +840,6 @@ Esses itens foram deixados fora do escopo para manter o foco na construção da 
 
 ---
 
-# Próximas evoluções
-
-Possíveis extensões futuras:
-
-- previsão de demanda;
-- otimização de estoque;
-- modelo de propensão de recompra;
-- previsão de churn;
-- recomendação de produtos;
-- análise de elasticidade de preço;
-- previsão de inadimplência;
-- MLflow;
-- Feature Engineering;
-- Model Serving.
-
-Essas evoluções podem ser desenvolvidas como projetos de Machine Learning independentes.
-
----
 
 # Autor
 
