@@ -541,101 +541,8 @@ Foi desenvolvido o dashboard:
 
 # Análise de Varejo 360
 
-O dashboard é composto por seis páginas.
+O dashboard é composto por seis páginas. Veja mais em documentacao/ Análises/
 
-## 1. Visão Executiva
-
-Indicadores gerais de:
-
-- faturamento;
-- lucro;
-- margem;
-- pedidos;
-- clientes ativos;
-- ticket médio;
-- evolução das vendas;
-- categorias.
-
-![Visão Executiva](/databricks-analise-varejo/documentacao/imagens/01_visao_geral.png)
-
----
-
-## 2. Clientes
-
-Apresenta:
-
-- base de clientes;
-- segmentação RFM;
-- distribuição dos segmentos;
-- participação no faturamento;
-- clientes em risco;
-- oportunidades de retenção.
-
-![Clientes](/databricks-analise-varejo/documentacao/imagens/02_clientes.png)
-
----
-
-## 3. Produtos e Estoque
-
-Apresenta:
-
-- Curva ABC;
-- situação atual do estoque;
-- rupturas;
-- estoque baixo;
-- excesso;
-- dias de cobertura;
-- capital excedente;
-- prioridades operacionais.
-
-![Produtos e Estoque](/databricks-analise-varejo/documentacao/imagens/03_produtos_estoque.png)
-
----
-
-## 4. Compras
-
-Apresenta:
-
-- produtos para reposição;
-- unidades sugeridas;
-- investimento estimado;
-- prioridades;
-- fornecedores;
-- mercadorias já em trânsito.
-
-![Compras](/databricks-analise-varejo/documentacao/imagens/04_compras.png)
-
----
-
-## 5. Financeiro
-
-Apresenta:
-
-- contas a receber;
-- inadimplência;
-- Aging;
-- contas a pagar;
-- clientes inadimplentes;
-- fluxo de caixa;
-- saldo projetado.
-
-![Financeiro](/databricks-analise-varejo/documentacao/imagens/05_financeiro.png)
-
----
-
-## 6. Equipe Comercial
-
-Apresenta:
-
-- faturamento da equipe;
-- metas;
-- atingimento;
-- ranking de vendedores;
-- clientes positivados;
-- ticket médio;
-- desempenho regional.
-
-![Equipe Comercial](/databricks-analise-varejo/documentacao/imagens/06_comercial.png)
 
 ---
 
@@ -678,6 +585,7 @@ databricks-analise-varejo/
 ├── documentacao/
 │   ├── arquitetura.md
 │   ├── modelo_dados.md
+│   ├── Análises/
 │   └── imagens/
 │
 └── dashboard/
@@ -845,10 +753,4 @@ Esses itens foram deixados fora do escopo para manter o foco na construção da 
 
 **Ana Maria Alves**
 
-Projeto desenvolvido para estudo e portfólio profissional nas áreas de:
-
-- Data Analytics;
-- Data Science;
-- Machine Learning;
-- Databricks;
-- Lakehouse.
+Projeto desenvolvido para estudo e portfólio profissional.
